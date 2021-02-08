@@ -1,0 +1,4 @@
+#Mon Feb 08 20:10:50 ICT 2021
+base.0=D\:\\Kuliah\\PAPB 2\\android-advanced-starter-apps-master\\FragmentExample_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
